@@ -1,3 +1,3 @@
 # .github
 
-Repository Templates for Issues, Pull Requests and Contributions all neatly packaged into a `.github` folder.
+Customizable repository templates for issues, pull requests and contributions neatly packaged into a `.github` folder.
